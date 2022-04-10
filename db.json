@@ -10,5 +10,11 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+   "user": {
+    "firstname": "Raheem",
+    "lastname": "Yaqub",
+     "phone":"08162754001"
+     
   }
 }
