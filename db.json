@@ -16,15 +16,4 @@
     "lastname": "Yaqub",
      "phone":"08162754001"     
   },
-  "products":[
-    { "id": 1, "issuer": "MTN Nigeria", "price":"194.74", "maturity-date":"17-03-2027", "coupon":"16.29", "yield":"11.3", "product_name":"NGN Bonds" },
-    { "id": 2, "issuer": "MTN Nigeria", "price":"194.74", "maturity-date":"17-03-2027", "coupon":"16.29", "yield":"11.3", "product_name":"NGN Bonds" },
-    {"id": 3, "issuer": "MTN Nigeria", "price":"194.74", "maturity-date":"17-03-2027", "coupon":"16.29", "yield":"11.3", "product_name":"NGN Bonds" },
-    { "id": 4, "issuer": "MTN Nigeria", "price":"194.74", "maturity-date":"17-03-2027", "coupon":"16.29", "yield":"11.3", "product_name":"NGN Bonds" },
-    { "id": 5, "issuer": "MTN Nigeria", "price":"194.74", "maturity-date":"17-03-2027", "coupon":"16.29", "yield":"11.3", "product_name":"NGN Bonds" },
-    { "id": 6, "issuer": "MTN Nigeria", "price":"194.74", "maturity-date":"17-03-2027", "coupon":"16.29", "yield":"11.3", "product_name":"NGN Bonds" },
-    { "id": 7, "issuer": "MTN Nigeria", "price":"194.74", "maturity-date":"17-03-2027", "coupon":"16.29", "yield":"11.3", "product_name":"NGN Bonds" },
-    { "id": 8, "issuer": "MTN Nigeria", "price":"194.74", "maturity-date":"17-03-2027", "coupon":"16.29", "yield":"11.3", "product_name":"NGN Bonds" },  
-    { "id": 9, "issuer": "MTN Nigeria", "price":"194.74", "maturity-date":"17-03-2027", "coupon":"16.29", "yield":"11.3", "product_name":"NGN Bonds" }, 
-  ]
 }
