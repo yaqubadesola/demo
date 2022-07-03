@@ -33,6 +33,18 @@
     "lastname": "Yaqub",
     "phone": "08162754001"
   },
+   "bvn_verify": [
+    {
+      "id": 1,
+      "bvn": "22322322322",
+      "email": 119.74,
+      "firstName": "Yaqub",
+      "lastName": "Raheem",
+      "phoneNumber": "08074544422",
+      "walletId": "m361234f1",
+      "MockData": true
+    }
+   ]
   "products": [
     {
       "id": 1,
