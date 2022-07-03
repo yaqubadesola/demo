@@ -33,7 +33,7 @@
     "lastname": "Yaqub",
     "phone": "08162754001"
   },
-   "bvn_verify": [
+  "bvnVerify": [
     {
       "id": "1",
       "bvn": "22322322322",
@@ -44,7 +44,7 @@
       "walletId": "m361234f1",
       "MockData": true
     }
-   ],
+  ],
   "products": [
     {
       "id": 1,
